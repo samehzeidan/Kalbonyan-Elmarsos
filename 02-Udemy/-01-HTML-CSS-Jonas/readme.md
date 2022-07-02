@@ -17,6 +17,6 @@
 ## Code
 - [Code](Code)
 ---
-[Course-Link]([https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3))<br>
+[Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
 ![Certificate](https://www.udemy.com/certificate/UC-c259f2cb-d6b3-45a8-8a21-7516a6ff42d0/)
